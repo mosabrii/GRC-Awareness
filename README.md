@@ -1,4 +1,4 @@
-# GRC Awareness
+# GRC Security Simulations
 
 ## Overview
 This repository contains Governance, Risk, and Compliance (GRC) focused projects designed to simulate realistic organizational security, risk, and compliance scenarios.
